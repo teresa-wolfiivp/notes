@@ -14,3 +14,8 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 # 2023-11-18
 - "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, writing comments to explain complex logic, and structuring your code in a way that makes sense to others who may need to work on it in the future. Remember, code is read more often than it is written, so make sure it's readable!"
+
+# 2023-11-19
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, always plan your day or week ahead of time. Write down your goals and tasks for the day, then break them down into smaller, manageable steps. You can use a planning tool like Trello or Asana to help keep track of your progress. Planning ahead will also help to avoid last-minute panic and stress.
