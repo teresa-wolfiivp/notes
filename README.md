@@ -39,3 +39,6 @@ First, prioritize your tasks. When you are working on a project, it is essential
 
 Second, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will ensure you have enough time to complete each task and avoid last-minute panic. It will also help to break down larger tasks into smaller, more manageable pieces, making it easier to stay on track. 
  -- 250 words
+
+# 2023-11-25
+- "Keep it simple, stupid!"
