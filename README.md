@@ -59,3 +59,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, so that it is easier to stay on track and avoid getting lost in the details. Use project management tools, such as Trello or Asana, to keep track of your progress and make sure that nothing falls through the cracks. 
  -- 212字
+
+# 2023-11-29
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This can help you become a more valuable asset to your team or organization and make you a better problem-solver.
+
+One way to achieve this is by setting aside time each week to read and research related to the field. Following industry blogs, subscribing to newsletters, and attending conferences and workshops can all help keep you informed. Additionally, learning new programming language or tools can give you an edge in the job market and help improve your problem solving skills.
