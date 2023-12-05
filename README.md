@@ -85,3 +85,14 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 # 2023-12-04
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, taking into account the complexity and potential obstacles. Finally, use tools and programming languages that suit your needs and skills to make your workflow smoother. Remember to take breaks and keep your code clean and organized, which will make it easier to maintain and expand your project in the future.
+
+# 2023-12-05
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function, method, class, module, etc. names that accurately represent their purpose and functionality.
+2. Follow coding conventions and standards for the language and framework you're using. These guidelines exist to ensure consistency and reduce confusion. 
+3. Break your code into logical, modular, reusable chunks. By doing this you can easily understand and modify each part independently without affecting the rest of the code.  
+4. Comment your Code. Write concise but descriptive comments that explain the purpose, logic, or implementation of code sections. Comments also help others understand your work and can prevent future misunderstandings.   
+5. Optimize your coding style. Refactor and clean up your existing code to make it more efficient and easier to maintain. Avoid repetitive code and use existing libraries and functions where possible.    
+6. Learn and adapt to new technologies and programming languages. Keeping up with the latest developments in the industry can help you write better, more effective code in different contexts.     
+7. Collaborate with others. Sharing knowledge and working together with other developers can lead to better solutions and improved code quality. Don't be afraid to ask for help or contribute to someone else' s codebase.
