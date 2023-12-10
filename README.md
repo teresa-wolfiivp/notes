@@ -112,3 +112,8 @@ This quote reminds us that while optimizing code for efficiency is important, it
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and not get sidetracked by less significant details. Use a task management tool, such as Trello or Asana, to help keep track of your priorities. 
  2. Plan ahead: Planning is crucial when it comes to programming. You should always have a clear idea of what you want to achieve and how you plan to get there. Break down your project into smaller, manageable tasks and create a timeline for each one. Using a planning tool like Microsoft Project or Google Calendar can help to keep you organized and on track.  
 3. Stay organized: A clean and organized codebase is a joy to work with and will lead to a more seamless development process. Implement good coding practices, like using version control (e.g., Git), organizing your files and folders, following a consistent naming convention, using comments, documenting your code, etc. These practices will not only make your life easier but also contribute to the maintainability and readability ofyour code.
+
+# 2023-12-10
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+It means that trying to optimize code before it's necessary can often lead to more problems than it solves. It's better to write clear, simple code first and then optimize only where necessary.
