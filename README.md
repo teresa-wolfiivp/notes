@@ -136,3 +136,10 @@ It means that trying to optimize code before it's necessary can often lead to mo
 
 # 2023-12-15
 - "Keep it simple, stupid!"
+
+# 2023-12-16
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented pace, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading, researching, and practicing to improve your skills.
+
+To be successful in programming, you must develop a deep understanding of the languages and frameworks you use. Learn the ins and outs of each tool, so you can make informed decisions when solving problems. Practice makes perfect, which is why it' s crucial to keep practicing and refining your craft. Don' t be afraid to try new things and push the boundaries of what you know. Challenge yourself, learn from your mistakes,and grow as a programmer. 
+ 学习新技能并不断适应变化。编程是一个不断发展的领域，因此，了解最新的技术和趋势至关重要。这意味着要不断学习新知识，跟上行业发展。
+- 了解你所使用的编程语言和框架。深入了解它们的功能和限制，以便在解决问题时做出明智的决策。通过实践来提高你的技能，不断练习和改进。不要害怕尝试新事物，挑战自己的极限。从错误中学习，不断提高自己的编程水平。
