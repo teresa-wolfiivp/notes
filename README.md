@@ -223,3 +223,8 @@ Remember to stay focused and avoid multitasking, as it can be detrimental to you
 4. Learn to use debugging tools and techniques, as this will save you time and frustration when something goes wrong with yourcode. Some common debuggers include pdb (Python), GDB (C/C++), and PyCharm' s debugger (Pyhton).   
 5. Stay up-to-date with new programming languages, tools,and technologies. Not only will this help keep your skills sharp, but it will also prepare you for new challenges and opportunities in the industry.    
 6. Don' t be afraid to ask for help or advice from others inyour field. There is always someone more experienced who can offer guidance and share their knowledge with you. Remember, learning is a lifelong process, so be open to constantly improving and growing as a programmer.
+
+# 2024-01-05
+- Today's programming wisdom: "Code is read far more often than it is written. Strive for clarity and simplicity in your code, so that others (and your future self) can understand and maintain it easily. Documentation, comments, and adhering to established conventions are as important as the functionality itself." 
+
+In brief: Write code as if the person who will maintain it is a homicidal maniac who knows where you live.
