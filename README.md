@@ -286,3 +286,8 @@ In essence, "Code for the Maintainer, not just for the Machine."
 
 # 2024-01-18
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, strive for clarity and conciseness. Write code that is easy to read, understand, and maintain. Remember that complex code might seem impressive, but it often leads to bugs, maintenance nightmares, and poor collaboration. Always aim to reduce complexity whenever possible, use established patterns and practices, and continuously refactor your work to keep it clean and efficient."
+
+# 2024-01-19
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive to write clean, maintainable, and readable code. Avoid unnecessary complexity; it often leads to bugs, harder maintenance, and poor collaboration. Remember that what you build today may need to be understood and modified tomorrow by someone else—or even yourself after a long break. So, embrace clarity and simplicity as core principles in your programming journey." 
+
+"Also remember, 'Premature optimization is the root of all evil.' — Donald Knuth. Focus on making your code correct first, then optimize if and where necessary. Today's high-level languages and modern architectures can handle many optimizations for you, so invest your time wisely in writing clear logic before diving into low-level optimizations."
