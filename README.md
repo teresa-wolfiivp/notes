@@ -340,3 +340,6 @@ One of the most important aspects of programming is problem-solving. When faced 
 
 # 2024-01-28
 - "Today's programming wisdom is to embrace the SOLID principles. In software development, remember that classes should be Open for extension but Closed for modification (OCP), have a Single Responsibility (SRP), and follow the Liskov Substitution Principle (LSP). Interfaces should be Interface Segregation Principles (ISP) compliant, and dependencies should adhere to the Dependency Inversion Principle (DIP). These principles promote code that's maintainable, scalable, and easier to understand, thereby enhancing the longevity and robustness of your applications."
+
+# 2024-01-29
+- "Keep it simple, stupid!"
