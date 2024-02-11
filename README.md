@@ -391,3 +391,12 @@ Word count: 132 words.
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
 
 Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back and analyze the issue. Break down the problem into smaller, more manageable tasks, then use logical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which can help you identify and fix errors more efficiently. Finally, don't be afraid to ask for help or advice from others in the community. Learning from your peers and experienced developers can greatly improve your skills and knowledge.
+
+# 2024-02-11
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you are working on a project, there will always be multiple things that need to get done. By prioritizing your task list, you can make sure that you focus on the most important tasks first. You can use various techniques, such as the MoSCoW method (Must have, Should have and Could have), to categorize your goals. Doing so will ensure that your time and efforts are well-spent. 
+ ---
+其次，提前计划。在开始一个项目之前，先制定一个详细的计划，包括任务分解、时间安排和资源分配。这将帮助你在项目进行过程中避免不必要的压力，并确保你能够按时完成所有任务。同时，定期评估你的进度，以便在遇到问题时及时调整计划 。
+----
+最后，保持组织。一个整洁、有组织的代码库和工作环境可以提高你的工作效率。使用版本控制系统（如Git）来管理你的代码，确保你可以轻松地回滚到之前的版本。此外，使用代码编辑器（如同源代码）和项目管理工具（如一）来帮助您保持组织和跟踪进度。
