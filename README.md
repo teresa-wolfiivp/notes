@@ -560,3 +560,6 @@ Next, planning ahead is crucial. Before starting a new project or undertaking a 
 4. Plan your day: Start your morning by planning out your schedule for the day. Block off time for specific tasks and set deadlines. Then, stick to your plan as much as possible. Adjust as needed, but having a plan helps you stay on task.   
 5. Stay organized: Keep your workspace clean and clutter-free. Organize your code, files, folders, projects, tools, references, notes, books, articles, podcasts, videos, courses, blogs, newsletters, social media, email, calendar, to-do list, tasks list. Everything should be organized in a way that makes sense to you, so that you don't spend time searching for things.    
 6. Learn continuously: Technology and programming languages are constantly evolving. Keep up with new developments and learn new skills to remain competitive in the job market. Attend conferences, read blogs and articles from industry experts, subscribe to newsletters and follow social accounts related to programming and technology.
+
+# 2024-03-15
+- "Keep it simple, stupid!"
